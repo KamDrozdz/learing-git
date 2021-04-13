@@ -1,1 +1,3 @@
-hello go
+package main
+
+func main() {}
